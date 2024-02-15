@@ -36,6 +36,8 @@ If using Gmail SMTP:
 - EMAIL_USERNAME = gmail username
 - EMAIL_PASSWORD = [google app password](https://support.google.com/accounts/answer/185833?hl=en#app-passwords)
 
+**Note:** This is not your normal login password!
+
 If using SendGrid:
 - SENDGRID_API_KEY = API key provided by SendGrid
 - EMAIL_FROM = email to send from
